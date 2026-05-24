@@ -8,7 +8,7 @@ A minimal shell script to install [Tailscale](https://tailscale.com) on mobile L
 |----|------|----------------|
 | [Mobian](https://mobian-project.org) | Debian Trixie | apt |
 | [Droidian](https://droidian.org) | Debian Trixie | apt |
-| [SirrOS](https://sirros.github.io) | Debian Trixie | apt |
+| [SirrOS](https://sirr-os.github.io) | Debian Trixie | apt |
 ---
 
 ## Usage
